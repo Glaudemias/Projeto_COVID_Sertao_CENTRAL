@@ -1,9 +1,9 @@
 # Projeto_COVID_Sertao_CENTRAL
-**EM CONSTRUÇÃO**
+
 [<img src="https://img.shields.io/badge/author-Glaudemias-yellow?style=flat-square"/>](https://github.com/Glaudemias)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N8ntlj06xqonQFP1Rq8gyxbfiNO77HL9?authuser=1#scrollTo=LZ1LwgqhzqrL)
 
  <p align="center">
-  <img alt="Capa do projeto" src="Image/Capa Amor de mãe.jpg" />
+  <img alt="Capa do projeto" src="Images/Capa_teste.jpg" />
 
 # Contents
 * Introduction
@@ -24,7 +24,7 @@ Based on this my anilisys divides into 3 parts, and you can uderstand more the l
   2. The second part, it's a visualization of data about Covid-19 cases in Ceará regions, comparing Sertão Central with other regions, seeking to visualize the most affected region, and the postion of Sertão Central in the ranking;
   3. The third part, it's focused in the cities of Sertão Central, and in this part I made analysis about the effect of covid - 19 in the region, and made a forecast model based in the two most affected cities.
 <p align="center">
-<img alt="Na imagem tem várias vacinas espalhadas" src="Image/vacina.jpeg" />
+<img alt="Mapas" src="mapas 2.png" />
 
 ## COVID-19 in Brazil and Ceará
   
