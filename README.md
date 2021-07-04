@@ -53,7 +53,7 @@ Based on this my anilisys divides into 3 parts, and you can uderstand more the l
  <p align="center">
 <img alt="Mapas" src="Images/mapa 1.jpg" />
  
- My analysis was first loocking to all regions, but in the last part focused in the Sertão Central Planning Region. The Sertão Central Region, it was a territory that covers 15.678,4 km², and was composed by the following cities: **Banabuiú, Choró, Quixadá, Quixeramobim, Deputado Irapuan Pinheiro, Ibaretama, Milhã, Mombaça, Pedra Branca, Piquet Carneiro, Senador Pompeu e Solonópole**.
+ My analysis was first loocking to all regions, but in the last part focused in the Sertão Central Planning Region. The Sertão Central Region, it's a territory that covers 15.678,4 km², and composed by the following cities: **Banabuiú, Choró, Quixadá, Quixeramobim, Deputado Irapuan Pinheiro, Ibaretama, Milhã, Mombaça, Pedra Branca, Piquet Carneiro, Senador Pompeu e Solonópole**.
  
 In the past, the region for long time was survived having the cotton plattantion as the main economic activitie, but nowadasy the region stands out for the offer services like health (as in the case of the Regional Hospitall of Sertão Central localizated in Quixeramobim) and educations services, with the numerous colleges located in Quixadá 
    <p align="center">
