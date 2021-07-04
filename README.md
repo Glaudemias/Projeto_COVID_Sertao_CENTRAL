@@ -18,12 +18,8 @@
 
 This project is the result of module 3, of the Bootcamp in Data Science applied (second edition) proposed by Alura and apoint to some analysis about the numbers of covid-19 in brazilian state Ceará, specifically in the Sertão Central region, from 2020 to 2021(25/07/2021). Furthermore it was proposed one forecast model for temporal series, usign the two most affected cities of the region. These [data](#dt) are available in the official [Covid-19 website of Brazilian government](https://covid.saude.gov.br/)
   
-Based on this my anilisys divides into 3 parts, and you can uderstand more the logic, in the [methodology](#mt) explanation:
+Based on this my anilisys divides into 3 parts, and you can uderstand more the logic, in the [methodology](#mt) explanation
   
-  1. The first part, it's the treatment of datasets, and information filtering about the state of Ceará. This part it's result in some dataframes divide in two groups (geodataframe and dataframe);
-  2. The second part, it's a visualization of data about Covid-19 cases in Ceará regions, comparing Sertão Central with other regions, seeking to visualize the most affected region, and the postion of Sertão Central in the ranking;
-  3. The third part, it's focused in the cities of Sertão Central, and in this part I made analysis about the effect of covid - 19 in the region, and made a forecast model based in the two most affected cities.
-
 ## COVID-19 in Brazil and Ceará
   
   The first case of covid-19 in Brazil it was registered in 02/06/2020, and it's found in São Paulo, seven days before 25 new cases are confirmed by the Brazilian Government Health Ministry, in six new states, they are: **Espirito Santo, Rio de Janeiro, Alagoas, Bahia, Minas Gerais e Distrito Federal**. The Covid-19 pandemic, in Brazil it has been an unprecedented catastrophe, the number of cases and deaths it was growing up so fast, every single week. For example six mounths before the first case in the country, Brazil registered 100.000 death (in 08/08/2020), in 01/07/2021 this number doubles. Currently Brazil has surpassed the worrying hal-million mark of cases, and in 07/04/2021 has reached 18 millions of deaths. This numbers make Brasil  the most affected country in Latin America.
