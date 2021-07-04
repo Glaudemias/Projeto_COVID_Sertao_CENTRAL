@@ -135,6 +135,7 @@ First, its clear how the pandemic affected all Ceará, principally the urbanized
 Conclusions about the regions:
 * The 3 regions most affected by the Covid-19 was Região Metropolitana, Cariri, Sertão de Sobral, in this order.This fact can be explained, by the fact the all 3 regions have large urban centers (Fortaleza, Juazeiro do Norte e Sobral), and that centers atrracted a lot of people, because they offer services related to, work, healt system, education system, etc.
 * Even being located in the center of the state, the Sertão Central region don't have more numbers of cases than interior regions like Centro-Sul, Sertão dos Inhamus and Vale do Jaguaribe. But the region have more numbers of deaths than numbers of cases, when compare to these regions
+    
 Conclusions about the cities:
 * Quixadá and Quixeramobim are the most affected cities of the Sertão Central, and Quixeramobim have more numbers of deaths than Quixadá. The explication its very inconclusive, but i belive that was related to fact of Quixeramobim is the localization of the Regional Hospital of Sertão Central, and this place serves to all cities of the regions.
 * Deputado Irapuã Pinheiro are the least affected city
