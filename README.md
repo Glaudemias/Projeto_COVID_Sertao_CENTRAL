@@ -1,4 +1,4 @@
-# PROJECT - ANALYSIS AND FORECASTING MODEL OD COVID - DATA OF SERTÃO CENTRAL
+# PROJECT - ANALYSIS AND FORECASTING MODEL OF COVID DATA - IN SERTÃO CENTRAL,CE
 
 [<img src="https://img.shields.io/badge/author-Glaudemias-yellow?style=flat-square"/>](https://github.com/Glaudemias)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AUkgLzHrnZaVQEP6glJpNukolC79vGoR?authuser=1#scrollTo=SGJnfmkjPhUz)
 
