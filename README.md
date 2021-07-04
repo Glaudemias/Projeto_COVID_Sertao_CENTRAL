@@ -108,9 +108,9 @@ A complementary description of each columns in dataset is also provided in the C
 # Methodology
 These project was divided in 3 parts. 
 
-1. The first part, it's the treatment of datasets, and information filtering about the state of Ceará. This part it's result in some dataframes divide in two groups (geodataframe and dataframe);
-2. The second part, it's a visualization of data about Covid-19 cases in Ceará regions, comparing Sertão Central with other regions, seeking to visualize the most affected region, and the postion of Sertão Central in the ranking;
-3. The third part, it's focused in the cities of Sertão Central, and in this part I made analysis about the effect of covid - 19 in the region, and made a forecast model based in the two most affected cities.
+1. [The first part](https://github.com/Glaudemias/Projeto_COVID_Sertao_CENTRAL/blob/main/Notebooks/PROJETO_PARTE_1.ipynb), it's the treatment of datasets, and information filtering about the state of Ceará. This part it's result in some dataframes divide in two groups (geodataframe and dataframe);
+2. [The second part](https://github.com/Glaudemias/Projeto_COVID_Sertao_CENTRAL/blob/main/Notebooks/PROJETO_PARTE_2_.ipynb), it's a visualization of data about Covid-19 cases in Ceará regions, comparing Sertão Central with other regions, seeking to visualize the most affected region, and the postion of Sertão Central in the ranking;
+3. [The third part](https://github.com/Glaudemias/Projeto_COVID_Sertao_CENTRAL/blob/main/Notebooks/PROJETO_PARTE_3_.ipynb), it's focused in the cities of Sertão Central, and in this part I made analysis about the effect of covid - 19 in the region, and made a forecast model based in the two most affected cities.
 With this we were able to made some conclusions about the variables observerd, you cand find them in the [Conclusion](#concl)
 
 # Tooling (Libraries and Technology)
