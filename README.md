@@ -23,8 +23,9 @@ Based on this my anilisys divides into 3 parts, and you can uderstand more the l
   1. The first part, it's the treatment of datasets, and information filtering about the state of Ceará. This part it's result in some dataframes divide in two groups (geodataframe and dataframe);
   2. The second part, it's a visualization of data about Covid-19 cases in Ceará regions, comparing Sertão Central with other regions, seeking to visualize the most affected region, and the postion of Sertão Central in the ranking;
   3. The third part, it's focused in the cities of Sertão Central, and in this part I made analysis about the effect of covid - 19 in the region, and made a forecast model based in the two most affected cities.
+
 <p align="center">
-<img alt="Mapas" src="mapas 2.png" />
+<img alt="Mapas" src="mapa 1.jpg" />
 
 ## COVID-19 in Brazil and Ceará
   
