@@ -155,7 +155,11 @@ Conclusions about the cities:
 # Acknowledgments
 This project as said before, was proposed as a second project in the Alura's Bootcamp, as an introduction to the Data Science world. 
  
-So I'm gonna say thank you, and welcome to the new teachers: Allan and Karol :). Thank so much for all the knowledge passed on to the students. Thank's to ScubaTeam and all the comunity it was created on the discord, specially Filipe, Carol and Valquiria, you guys contributed a lot to this project and were always willing to help with my questions. THANK YOU!! :)
+So I'm gonna say thank you, and welcome to the new teachers: Allan and Karol :). Thank so much for all the knowledge passed on to the students. Thank's to ScubaTeam and all the comunity it was created on the discord, specially Filipe, Carol and Valquiria, you guys contributed a lot to this project and were always willing to help with my questions.
+
+A SPECIAL thanks to my dear friends Stephane and Erick, thanks for supporting me 
+    
+THANK YOU!! :)
  
 
 # References
