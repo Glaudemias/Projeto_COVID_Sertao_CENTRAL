@@ -137,9 +137,9 @@ Conclusions about the regions:
 * Even being located in the center of the state, the Sertão Central region don't have more numbers of cases than interior regions like Centro-Sul, Sertão dos Inhamus and Vale do Jaguaribe. But the region have more numbers of deaths than numbers of cases, when compare to these regions
     
 Conclusions about the cities:
-* Quixadá and Quixeramobim are the most affected cities of the Sertão Central, and Quixeramobim have more numbers of deaths than Quixadá. The explication its very inconclusive, but i belive that was related to fact of Quixeramobim is the localization of the Regional Hospital of Sertão Central, and this place serves to all cities of the regions.
+* Quixadá and Quixeramobim are the most affected cities of the Sertão Central, and Quixeramobim have more numbers of deaths than Quixadá. The explication its very inconclusive, but i belive that was related to fact of Quixeramobim be the localization of the Regional Hospital of Sertão Central, and this place serves to all cities of the regions.
 * Deputado Irapuã Pinheiro are the least affected city
-* The most critical datas of the covid in the regions and cities was 05/2020 - 07/2020 and 2021/03 - 2021-06(the limit of days in the dataset). The 2020 dates, was the same when the all states has became the 3rd most affected state in the country
+* The most critical datas of the covid in the regions and cities was 05/2020 - 07/2020 and 2021/03 - 2021-06(the limit of days in the dataset). The 2020 dates, was the same when Ceará has became the 3rd most affected state in the country
 * The 2021 year, have almost 50% more cases and deaths than 2020
 * Even with the start of vaccination, the forecast model have demonstrate that curve continues grown, and this fact could be related to the way of Brazil have been treating the vaccination of the population.
 *In the weekly seasonality of the forescast model, there was a low on weekends and on mondays(probably because it was affected by the sunday)
@@ -147,7 +147,7 @@ Conclusions about the cities:
   
 ## To advance in the analisys 
 
-* One good idea, would be to improve the Quixeramobim forecast model
+* One good idea, would be to improve the Quixeramobim forecast model.
 
 # Acknowledgments
 This project as said before, was proposed as a second project in the Alura's Bootcamp, as an introduction to the Data Science world. 
