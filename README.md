@@ -1,6 +1,6 @@
-# Projeto_COVID_Sertao_CENTRAL
+# PROJECT - ANALYSIS AND FORECASTING MODEL OD COVID - DATA OF SERTÃO CENTRAL
 
-[<img src="https://img.shields.io/badge/author-Glaudemias-yellow?style=flat-square"/>](https://github.com/Glaudemias)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N8ntlj06xqonQFP1Rq8gyxbfiNO77HL9?authuser=1#scrollTo=LZ1LwgqhzqrL)
+[<img src="https://img.shields.io/badge/author-Glaudemias-yellow?style=flat-square"/>](https://github.com/Glaudemias)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AUkgLzHrnZaVQEP6glJpNukolC79vGoR?authuser=1#scrollTo=SGJnfmkjPhUz)
 
  <p align="center">
   <img alt="Capa do projeto" src="Images/Capa_teste.jpg" />
@@ -24,15 +24,15 @@ Based on this my anilisys divides into 3 parts, and you can uderstand more the l
   2. The second part, it's a visualization of data about Covid-19 cases in Ceará regions, comparing Sertão Central with other regions, seeking to visualize the most affected region, and the postion of Sertão Central in the ranking;
   3. The third part, it's focused in the cities of Sertão Central, and in this part I made analysis about the effect of covid - 19 in the region, and made a forecast model based in the two most affected cities.
 
-<p align="center">
-<img alt="Mapas" src="mapa 1.jpg" />
-
 ## COVID-19 in Brazil and Ceará
   
   The first case of covid-19 in Brazil it was registered in 02/06/2020, and it's found in São Paulo, seven days before 25 new cases are confirmed by the Brazilian Government Health Ministry, in six new states, they are: **Espirito Santo, Rio de Janeiro, Alagoas, Bahia, Minas Gerais e Distrito Federal**. The Covid-19 pandemic, in Brazil it has been an unprecedented catastrophe, the number of cases and deaths it was growing up so fast, every single week. For example six mounths before the first case in the country, Brazil registered 100.000 death (in 08/08/2020), in 01/07/2021 this number doubles. Currently Brazil has surpassed the worrying hal-million mark of cases, and in 07/04/2021 has reached 18 millions of deaths. This numbers make Brasil  the most affected country in Latin America.
   
   One of the most affected states of the country was Ceará, on March 15 of 2020 the state confirmed the three first cases in the city of Fortaleza, in the same place, was confirmed the first death on the March 26 of that year. In this date the state Ceará registered 211 new cases, distribuited in the following cities: **Aquiraz(6), Sobral(4), Fortim(1), Mauriti(1) and Juazeiro do Norte (1). In the April 8 of that year, Ceará was considered one of the most worrying States, as it had a 100% ICU occupancy rate, and 50% of cases above average rate.
   
+ <p align="center">
+<img alt="Mapas" src="Images/Cronologia Brasil.png" />
+ 
   On 05/07/2020 Ceará was collapsed the health system, and in the same date it occupies the 3rd state seat most affect by the pandemic, with numbers of cases in  71.402 and 4.480 number of deaths, made the Ceará the state with cases of deaths more than China (the first epicenter of de pandemic in the world),and in the same date, [the presiden of Brazil encourages people to invade public hospitals to verify if the emergency beds were free our occupied](https://oglobo.globo.com/epoca/sociedade/ele-esta-incentivando-baderna-desabafo-de-enfermeira-apos-bolsonaro-pedir-que-seguidores-invadam-hospitais-24477843) 
   
   Seeking ways to get out of the situation, the state goverment implemented in 05/08/2020 the first social distance measures and lockdown, and since then, the measures have became common. This affected the numbers, as more recent information indicates that avareges of deaths for Covid-19 in Ceará, on 06/28/2021, was the second lowest avarage since 2020. Howerever Brasil still onde of the most affected country for the pandemic, and the situation of Ceará is critical. The State registered more than 700.000 cases, and 18.000 numbers of deaths, and the according to the report in [Diário do Nordeste](https://diariodonordeste.verdesmares.com.br/regiao/todas-as-regioes-do-ceara-apresentaram-mais-mortes-por-covid-19-em-2021-que-2020-exceto-a-de-sobral-1.3096088), every region in Ceará have more death for Covid-19 in 2021 than 2020
@@ -54,14 +54,19 @@ Based on this my anilisys divides into 3 parts, and you can uderstand more the l
 - Sertão dos Inhamuns Planning Region;
 - Vale do Jaguaribe Planning Region.
  
+ <p align="center">
+<img alt="Mapas" src="Images/mapa 1.jpg" />
+ 
  My analysis was first loocking to all regions, but in the last part focused in the Sertão Central Planning Region. The Sertão Central Region, it was a territory that covers 15.678,4 km², and was composed by the following cities: **Banabuiú, Choró, Quixadá, Quixeramobim, Deputado Irapuan Pinheiro, Ibaretama, Milhã, Mombaça, Pedra Branca, Piquet Carneiro, Senador Pompeu e Solonópole**.
  
 In the past, the region for long time was survived having the cotton plattantion as the main economic activitie, but nowadasy the region stands out for the offer services like health (as in the case of the Regional Hospitall of Sertão Central localizated in Quixeramobim) and educations services, with the numerous colleges located in Quixadá 
-  
+   <p align="center">
+<img alt="Mapas" src="Images/mapas 2.jpg" />
 <a name="dt"></a>
+    
 # Data
 
-The data used in this analysis was obtained from the [official Covid-19 website of Brazilian government](https://covid.saude.gov.br/). You can find the data , and shapefiles of the state[here](https://github.com/Glaudemias/PROJETO_FINAL_MOD1-DS_2-Bootcamp_Alura/tree/main/Dados) on my repositorie. The datasets have the folloeing informations:
+The data used in this analysis was obtained from the [official Covid-19 website of Brazilian government](https://covid.saude.gov.br/). You can find the data , and shapefiles of the state[here](https://github.com/Glaudemias/Projeto_COVID_Sertao_CENTRAL/tree/main/Data) on my repositorie. The datasets have the folloeing informations:
   
  * **região:** Regions of the country and the accumulated numbers reffering to the country, the values foundind, was: *Brasil, Norte, Nordeste, Sul, Sudeste e Centro-Oeste*. 
 
@@ -198,7 +203,7 @@ If you have any tips or suggestions, feel free to contact me here:
 
 And before I forget...
   <p align="rigth">
-  <img width="360" height="460" alt="Zé gotinha metendo o brega funk cabuloso" src="Image/ezgif.com-gif-maker.gif" />
+  <img width="360" height="460" alt="Zé gotinha metendo o brega funk cabuloso" src="Images/ezgif.com-gif-maker.gif" />
      ...viva o SUS :)
 
 
