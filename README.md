@@ -34,7 +34,7 @@ Based on this my anilisys divides into 3 parts, and you can uderstand more the l
   Seeking ways to get out of the situation, the state goverment implemented in 05/08/2020 the first social distance measures and lockdown and since then, the measures have became common. This affected the numbers, as more recent information indicates that avareges of deaths for Covid-19 in Ceará, on 06/28/2021, was the second lowest avarage since 2020. Howerever Brazil still onde of the most affected country for the pandemic, and the situation of Ceará is critical. The State registered more than 700.000 cases, and 18.000 numbers of deaths, and the according to the report in [Diário do Nordeste](https://diariodonordeste.verdesmares.com.br/regiao/todas-as-regioes-do-ceara-apresentaram-mais-mortes-por-covid-19-em-2021-que-2020-exceto-a-de-sobral-1.3096088), every region in Ceará have more death for Covid-19 in 2021 than 2020
 
 ## The Sertão Central Region
-  The Ceará States was divide in 14 planning regions, namely:
+  The state of Ceará was divide in 14 planning regions, namely:
 - Cariri Planning Region;
 - Centro Sul Planning Region;
 - Grande Fortaleza/Região Metropolitana Planning Region;
