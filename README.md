@@ -142,7 +142,7 @@ Conclusions about the cities:
 * The most critical datas of the covid in the regions and cities was 05/2020 - 07/2020 and 2021/03 - 2021-06(the limit of days in the dataset). The 2020 dates, was the same when Ceará has became the 3rd most affected state in the country
 * The 2021 year, have almost 50% more cases and deaths than 2020
 * Even with the start of vaccination, the forecast model have demonstrate that curve continues grown, and this fact could be related to the way of Brazil have been treating the vaccination of the population.
-*In the weekly seasonality of the forescast model, there was a low on weekends and on mondays(probably because it was affected by the sunday)
+* In the weekly seasonality of the forescast model, there was a low on weekends and mondays(probably because it was affected by the sunday)
 * Quixadá forecast model have a better performance than Quixeramobim.
   
 ## To advance in the analisys 
