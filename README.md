@@ -16,9 +16,9 @@
 
 # Introduction
 
-This project is the result of module 3, of the Bootcamp in Data Science applied (second edition) proposed by Alura and apoint to some analysis about the numbers of covid-19 in brazilian state Ceará, specifically in the Sertão Central region, from 2020 to 2021(25/07/2021). Furthermore it was proposed one forecast model for temporal series, usign the two most affected cities of the region. These [data](#dt) are available in the official [Covid-19 website of Brazilian government](https://covid.saude.gov.br/)
-  
-Based on this my anilisys divides into 3 parts, and you can uderstand more the logic, in the [methodology](#mt) explanation
+This project is a result of the third module the Bootcamp in Applied Data Science  (second edition), proposed by Alura and appoint to some analysis about the numbers of covid-19 in Brazilian state Ceará, specifically in the Sertão Central region, from 2020 to 2021(25/07/2021). Furthermore, it proposed one forecast model for temporal series, using the two most affected cities of the selected region. These [data](#dt) are available on the official [Covid-19 website of the Brazilian government](https://covid.saude.gov.br/)
+
+Based on that I broke my analysis down into 3 parts, and you can understand more of the logic in the [methodology section](#mt).
   
 ## COVID-19 in Brazil and Ceará
   
